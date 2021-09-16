@@ -8,7 +8,7 @@ View(estrategia_convivencia)
 ud_model <- udpipe_load_model(ud_model$file_model)
 x <- as.data.frame(x)
 
-Analisis. 
+#Análisis. 
 #Basic frequency statistics
 
 library(lattice)
